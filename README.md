@@ -14,7 +14,7 @@ Tips and tricks for working with me.
 ## What Motivates Me
 
 - My People. I care a lot about building relationships within my teams and building strong trusting teams. I believe that my teams are or can be the best of the best. The team that everyone wants to join.
-- Consistent improvement. I thrive when I see my people, and myself getting better at whatever we are doiong.
+- Consistent improvement. I thrive when I see my people, and myself getting better at whatever we are doing.
 - Being given a clear mission. A clear problem, and an understanding of what the pain point is. If one doesn't exist, or is ambiguous, I will first question why the mission exists.
 - Working on problems which seem not important, but really are the grease on the wheels that keep the product moving forward. Maybe this is why I've been focused on non-functional requirements my entire career. 
 
